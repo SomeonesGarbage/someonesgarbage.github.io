@@ -47,7 +47,7 @@ h2 {
   font-size: 200%;
 }
 
-/*BUTTONS!*/
+/*LISTS*/
 ul {
   width: 100%;
   margin: 0;
@@ -57,13 +57,10 @@ ul {
 
 ul li {
   float: left;
-  width: 32%;
+  width: 24%;
   margin-right: 1%;
 }
 
-ul li.right {
-  margin-right: 0;
-}
 
 /* Links!*/
 a:link {
@@ -97,4 +94,19 @@ a:active {
   margin: 20px;
   border-radius: 25px;
   clear: both;
+}
+
+.stashcards {
+  width: auto;
+  height: auto;
+  float: center;
+  border: 15px solid black;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+  clear: both;
+}
+hr.rounded {
+  border-top: 5px solid black;
+  border-radius: 5px;
 }

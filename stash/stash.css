@@ -1,0 +1,61 @@
+.lol {
+    background-color: white;
+    font-family: 'DM Serif Display', serif;
+    /* center text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+  /*text and stuff */
+  h1 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 500%
+  }
+  
+  p {
+    font-size: 150%;
+  }
+  
+  h2 {
+    font-size: 200%;
+  }
+  /* LINKS! */
+  a:link {
+    color: darkblue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: darkblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: darkblue;
+  }
+
+  .white {
+    color: white
+  }
+    /* stash components ™ */
+  .stashcards {
+    width: auto;
+    height: auto;
+    float: center;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    clear: both;
+  }
+  hr.rounded {
+    border-top: 5px solid black;
+    border-radius: 5px;
+  }
