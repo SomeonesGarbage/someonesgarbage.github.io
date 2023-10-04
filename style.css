@@ -11,7 +11,17 @@
   text-align: center;
   min-height: 100vh;
 }
-
+.lolf {
+  background-color: white;
+  font-family: 'DM Serif Display', serif;
+  color: black;
+  /* center text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
 /* the worst code ever*/
 .projects {
   background-color: white;
