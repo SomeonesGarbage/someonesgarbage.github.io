@@ -3,7 +3,7 @@
    "how to change link color." */
 .lol {
   background-color: white;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Gabarito', sans-serif;
   /* center text */
   display: flex;
   justify-content: center;
@@ -43,6 +43,7 @@ h1 {
 
 p {
   font-size: 150%;
+  font-family: 'Gabarito', sans-serif;
 }
 
 h2 {
