@@ -36,6 +36,12 @@
   min-height: 100vh;
 }
 
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 h1 {
   font-family: 'Dela Gothic One', cursive;
   font-size: 500%
