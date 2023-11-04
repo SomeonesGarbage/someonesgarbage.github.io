@@ -1,6 +1,3 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
 .lol {
   background-color: white;
   font-family: 'Gabarito', sans-serif;
@@ -14,7 +11,7 @@
 
 .lolf {
   background-color: white;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Gabarito', sans-serif;
   color: black;
   /* center text */
   display: flex;
@@ -27,7 +24,7 @@
 /* the worst code ever*/
 .projects {
   background-color: white;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Gabarito', sans-serif;
   /* center text */
   display: flex;
   justify-content: center;
@@ -54,6 +51,10 @@ p {
 
 h2 {
   font-size: 200%;
+}
+
+h3 {
+  font-size: 150%
 }
 
 /*LISTS*/
