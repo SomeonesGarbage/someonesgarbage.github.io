@@ -6,6 +6,7 @@ The website right now is kinda **bad**. It has:
 3. Does not look good :(
 4. Not responsive at all
 5. Not interactive
+
 The new website may break links and it will start with less features. But I will add more
 *(The old website will still be avalible)
 # contribution
