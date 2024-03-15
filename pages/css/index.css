@@ -1,0 +1,53 @@
+/* hello world :0 */
+/* colors: #461673 links/other cool stuff purple */
+
+
+body{
+    background-color: black;
+}
+
+/* why is centering so hard :sob:. also if your reading this have a nice day (gl reading my terrible code lmaoo) */
+.main {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+/* Fonts used (15/3/2024): Space mono https://fonts.google.com/specimen/Space+Mono?query=mono */
+  .smr {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    color: white;
+    font-style: normal;
+  }
+  
+  .smb {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    color: white;
+    font-style: normal;
+  }
+  
+  .smri {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    color: white;
+    font-style: italic;
+  }
+  .linkitalic:any-link{
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    color: #461673;
+    font-style: italic;
+  }
+  
+  .smbi {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+  }
+/* 😭😭😭😭😭😭😭😭😭😭😭 */
