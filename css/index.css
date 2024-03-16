@@ -1,14 +1,13 @@
 /* hello world :0 */
 /* colors: #461673 links/other cool stuff purple */
 
-
 body{
     background-color: black;
+    background-image: url(../images/noise.png);
 }
 
 /* why is centering so hard :sob:. also if your reading this have a nice day (gl reading my terrible code lmaoo) */
 .main {
-    border: 5px solid;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -17,12 +16,20 @@ body{
 }
 
 /* Fonts used (15/3/2024): Space mono https://fonts.google.com/specimen/Space+Mono?query=mono */
+/* Secondery font (dot font) -> DotGothic16 (google fonts) */
   .smr {
     font-family: "Space Mono", monospace;
     font-weight: 400;
     color: white;
     font-style: normal;
   }
+
+  .dr{
+    font-family: "DotGothic16", sans-serif;
+    font-weight: 400;
+    color: white;
+    font-style: normal;
+  }  
   
   .smb {
     font-family: "Space Mono", monospace;
