@@ -1,5 +1,6 @@
 /* hello world :0 */
 /* colors: #461673 links/other cool stuff purple */
+/* I HATE CSS WITH A PASSION 4/9/2024*/
 
 body {
   background-color: black;
@@ -9,14 +10,14 @@ body {
 /* why is centering so hard :sob:. also if your reading this have a nice day (gl reading my terrible code lmaoo) */
 .main {
   position: absolute;
-  top: 80%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 0px;
 }
 
 .mas {
-  /* hiding the mastodon verficifation link! */
+  /* hiding the mastodon verficifation link! you should follow me :)*/
   display: none;
 }
 
