@@ -2,10 +2,16 @@
 /* colors: #461673 links/other cool stuff purple */
 /* I HATE CSS WITH A PASSION 4/9/2024*/
 
-body {
-  background-color: black;
-  background-image: url(../images/noise.png);
+body{
+  background-color : black;
+  background-image: url("../images/pattern.png");
+  animation: BgMove 100s linear infinite;
 }
+@keyframes BgMove {
+  from {background-position: bottom left;}
+  to {background-position: top right;}
+}
+
 
 /* why is centering so hard :sob:. also if your reading this have a nice day (gl reading my terrible code lmaoo) */
 .main {
